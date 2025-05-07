@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25da4275-4184-4d9d-9af5-10d55a8b4b13" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/runs/Pong-v4_trainer_20250416_035139/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/runs/Pong-v4_trainer_20250416_035139/evaluations/eval_100k.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/runs/Pong-v4_trainer_20250416_035139/evaluations/eval_200k.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/runs/Pong-v4_trainer_20250416_035139/models/checkpoint_100k.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/runs/Pong-v4_trainer_20250416_035139/models/checkpoint_200k.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/runs/Pong-v4_trainer_20250416_035139/models/initial_model.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/runs/Pong-v4_trainer_20250507_054040/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/runs/Pong-v4_trainer_20250507_054040/models/initial_model.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/runs/Pong-v4_trainer_20250507_054125/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/runs/Pong-v4_trainer_20250507_054125/models/initial_model.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/runs/Pong-v4_trainer_20250507_055206/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/runs/Pong-v4_trainer_20250507_055206/models/initial_model.pt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figure_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monitor/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monitor/2.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2vfUrMOoIIC2SR2WxGhLeLDVOk3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ishiyama/Desktop/nvidia-kind-deploy&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
+        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25da4275-4184-4d9d-9af5-10d55a8b4b13" name="Changes" comment="" />
+      <created>1744535820602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744535820602</updated>
+      <workItem from="1744535821773" duration="917000" />
+      <workItem from="1744770579915" duration="206000" />
+      <workItem from="1744770797255" duration="3893000" />
+      <workItem from="1746000393228" duration="79000" />
+      <workItem from="1746000499673" duration="27000" />
+      <workItem from="1746591613518" duration="6231000" />
+      <workItem from="1746601066447" duration="182000" />
+      <workItem from="1746601334286" duration="155000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

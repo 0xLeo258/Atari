@@ -1,0 +1,13 @@
+{
+    "env_id": "Pong-v4",
+    "total_timesteps": 1000000,
+    "batch_size": 32,
+    "gamma": 0.99,
+    "device": "cuda",
+    "target_network_frequency": 1000,
+    "tau": 1.0,
+    "checkpoint_frequency": 100000,
+    "eval_frequency": 100000,
+    "buffer_size": 200000,
+    "start_time": "2025-05-07 05:40:40"
+}
