@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: trainer
+  namespace: dqn-training
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: trainer
+  template:
+    metadata:
+      labels:
+        app: trainer
+    spec:
+      containers:
+      - name: trainer
+        image: guswong/atari-trainer:latest
+        command: ["/bin/bash", "-c"]
+        args:
+        - "until nc -z redis 6379; do echo 'Waiting for Redis...'; sleep 10; done; python train.py"
